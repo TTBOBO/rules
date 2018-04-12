@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# npm install iview
+npm install iview --save
+
 # serve with hot reload at localhost:8080
 npm run dev
 
